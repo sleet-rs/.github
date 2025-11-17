@@ -30,19 +30,24 @@ personal rust playground for interacting with NEAR
 - https://docs.near.org/tools/near-cli
 - https://github.com/near/near-cli-rs
 
-
-##### SMART CONTRACTS
-
 **near-sdk-rs**
 <br/>
 Rust library for writing NEAR smart contracts
 - https://docs.near.org/tools/sdk
 - https://github.com/near/near-sdk-rs
 
-**my contract playground**
+
+### MY STUFF
+
+**contract playground**
+<br/>
+most of these are not in rust.
 <br/>
 https://gitlab.com/sleet-dev/sleet-near-smart-contracts
 
+**sleet-iced**
+<br/>
+https://github.com/sleet-iced
 
 ---
 
