@@ -14,6 +14,9 @@ personal rust playground for interacting with NEAR
 - https://github.com/near/near-api-rs
 - https://crates.io/crates/near-api
 
+**near-kit-rs**
+- https://github.com/r-near/near-kit-rs
+
 **near-token**
 - https://github.com/near/near-token-rs
 - https://crates.io/crates/near-token
