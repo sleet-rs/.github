@@ -1,9 +1,6 @@
 # SLEET RUST PLAYGROUND
 personal rust playground for interacting with NEAR
 
-> for the record i hate rust and will never claim to be proficient in it.
-
-> this is just a playground for me to discover and maybe build something in rust that interacts with near.
 
 ---
 
